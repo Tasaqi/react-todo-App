@@ -1,0 +1,54 @@
+.App {
+  text-align: center;
+  border: #282c34 solid;
+  background-color: #09d3ac;
+}
+.App-header {
+  background-color: #282c34;
+  min-height: 10vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #09d3ac;
+}
+.list-todo
+{
+  font-size: 15pt;
+  width: 500px;
+  margin: 5%;
+  background-color:white
+
+}
+.add-btn
+{
+  color: white;
+  background: blue;
+  padding: 10px;
+}
+.todo-text
+{
+  width: 350px;
+  padding: 10px;
+}
+.list
+{
+  list-style: none
+}
+.check-box
+{
+ margin-right: 10px;
+}
+.delete-btn
+{
+  background-color: red;
+  color: white;
+  padding: 5px;
+  margin-left: 10px;
+
+}
